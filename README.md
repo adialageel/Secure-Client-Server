@@ -5,10 +5,10 @@ There are two key pieces to this project: (i) authentication of the client and s
 
 
 To run authentication server, run command
-# ./authserver
+./authserver
 
 Next run server by following command.
-# ./server
+./server
 
 Lastly, run client script like this
-# ./client
+./client
